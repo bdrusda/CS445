@@ -1,0 +1,108 @@
+Algorithm: Simple QuickSort
+Array Size: 100000
+Order: Random
+Number of Trials: 10
+Average Time: 0.0102469168 seconds
+
+Algorithm: Median of Three (5)
+Array Size: 100000
+Order: Random
+Number of Trials: 10
+Average Time: 0.3841927956 seconds
+
+Algorithm: Median of Three (20)
+Array Size: 100000
+Order: Random
+Number of Trials: 10
+Average Time: 0.38119043069999997 seconds
+
+Algorithm: Median of Three (100)
+Array Size: 100000
+Order: Random
+Number of Trials: 10
+Average Time: 0.38120612410000004 seconds
+
+Algorithm: Random Pivot (5)
+Array Size: 100000
+Order: Random
+Number of Trials: 10
+Average Time: 0.039378049299999995 seconds
+
+Algorithm: MergeSort
+Array Size: 100000
+Order: Random
+Number of Trials: 10
+Average Time: 0.0120771215 seconds
+
+Algorithm: Simple QuickSort
+Array Size: 100000
+Order: Sorted
+Number of Trials: 10
+Average Time: 17.6026937152 seconds
+
+Algorithm: Median of Three (5)
+Array Size: 100000
+Order: Sorted
+Number of Trials: 10
+Average Time: 2.183379E-4 seconds
+
+Algorithm: Median of Three (20)
+Array Size: 100000
+Order: Sorted
+Number of Trials: 10
+Average Time: 2.185335E-4 seconds
+
+Algorithm: Median of Three (100)
+Array Size: 100000
+Order: Sorted
+Number of Trials: 10
+Average Time: 2.177512E-4 seconds
+
+Algorithm: Random Pivot (5)
+Array Size: 100000
+Order: Sorted
+Number of Trials: 10
+Average Time: 0.0347781422 seconds
+
+Algorithm: MergeSort
+Array Size: 100000
+Order: Sorted
+Number of Trials: 10
+Average Time: 8.731066E-4 seconds
+
+Algorithm: Simple QuickSort
+Array Size: 100000
+Order: Reverse
+Number of Trials: 10
+Average Time: 4.6501044615 seconds
+
+Algorithm: Median of Three (5)
+Array Size: 100000
+Order: Reverse
+Number of Trials: 10
+Average Time: 2.916711E-4 seconds
+
+Algorithm: Median of Three (20)
+Array Size: 100000
+Order: Reverse
+Number of Trials: 10
+Average Time: 3.0174209999999995E-4 seconds
+
+Algorithm: Median of Three (100)
+Array Size: 100000
+Order: Reverse
+Number of Trials: 10
+Average Time: 2.9587559999999996E-4 seconds
+
+Algorithm: Random Pivot (5)
+Array Size: 100000
+Order: Reverse
+Number of Trials: 10
+Average Time: 0.034277813 seconds
+
+Algorithm: MergeSort
+Array Size: 100000
+Order: Reverse
+Number of Trials: 10
+Average Time: 0.0048409298 seconds
+
